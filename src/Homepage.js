@@ -2,7 +2,7 @@ import { Button, Grid } from "@mui/material";
 import React from "react";
 
 const WhatsAppLink = () => {
-  const phoneNumber = "7483195095";
+  const phoneNumber = "";
 
   const whatsappLink = `https://api.whatsapp.com/send?phone=${phoneNumber}`;
 
